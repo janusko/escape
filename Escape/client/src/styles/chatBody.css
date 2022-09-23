@@ -1,0 +1,45 @@
+.chat__mainHeader{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.chat__mainHeader p{
+    color: white;
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+
+.chat__mainHeader button{
+    background-color: #972e79;
+    color: white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+    width: 60%;
+    height: 45px;
+    border-radius: 35px;
+    border: none;
+}
+
+.chat__mainHeader button:hover{
+    background-color: white;
+    color: #972e79;
+}
+
+.message__chats{
+    color: white;
+    display: flex;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+
+.sender__name{
+    color: #972e79;
+}
+
+#messageFrom{
+    color: #972e79;
+}

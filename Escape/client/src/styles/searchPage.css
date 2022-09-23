@@ -1,0 +1,63 @@
+.searchPage__info{
+    padding: 20px;
+    background-color: transparent;
+}
+
+.searchPage__info > p {
+    margin-bottom: 10px;
+    font-size: 1em;
+    color: white;
+    margin-left: 5%
+}
+
+.searchPage__info > h1{
+    margin-bottom: 0;
+    color: white;
+    margin-left: 4.8%
+}
+
+.filters{
+    margin-left: 5%;
+    margin-bottom: 40px;
+}
+
+.filters button{
+    border-radius: 30px;
+    text-transform: inherit;
+    margin: 5px;
+    background-color: #972e79;
+    color: white;
+    border: none;
+}
+.filters button:hover {
+    background-color: white;
+    color: #972e79;
+}
+
+#popUpImg{
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.selectStay{
+    background-color: transparent;
+    border: none;
+    color: white;
+    margin: 5px;
+    font-weight: bold;
+}
+.selectStay option{
+    background-color: transparent;
+    border: none;
+}
+#results{
+    margin-top: 60px;
+}
+
+.header_center{
+    margin-left: 5%;
+    margin-bottom: 50px;
+    margin-top: 1%;
+}

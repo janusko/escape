@@ -1,0 +1,89 @@
+.search{
+    display: flex;
+    align-items: center;
+    width: 48%;
+    background-color: #270b39;
+    font-weight: 900;
+    text-transform: inherit;
+    color: #972e79;
+    letter-spacing: 2px;
+    border-radius: 35px;
+    padding: 10px;
+    height: 40px;
+}
+
+.search__form{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.search__container{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.search__form-input p{
+    font-size: .7em;
+    margin: 0;
+    letter-spacing: 3px;
+}
+.search__form-input input{
+    background-color: transparent;
+    border: none;
+    letter-spacing: 2px;
+    font-weight: bolder;
+}
+.search__form-input  input:focus{
+    outline-width: 0;
+}
+
+.search__form-input{
+    border: none;
+}
+
+.search__form-input ::placeholder{
+    color:white;
+    font-size: .7em;
+}
+
+.search__form-start-date p{
+    font-size: .7em;
+    margin: 0;
+    letter-spacing: 3px;
+}
+.search__form-start-date input{
+    background-color: transparent;
+    border: none;
+}
+
+.search__form-start-date{
+    border: none;
+    padding-left: 20px;
+}
+.search__form-start-date  input:focus{
+    outline-width: 0;
+}
+.search__form-end-date  p{
+    font-size: .7em;
+    margin: 0;
+    letter-spacing: 3px;
+}
+.search__form-end-date  input{
+    background-color: transparent;
+    border: none;
+    margin: 0;
+}
+.search__form-end-date  input:focus{
+    outline-width: 0;
+}
+
+.search__form-end-date {
+    border: none;
+    padding-left: 20px;
+    border-left: 1px solid #972e79;
+}
+
+#endDate {
+    color: white;
+}

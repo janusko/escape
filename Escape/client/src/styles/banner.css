@@ -1,0 +1,49 @@
+.banner{
+    background: url("https://images.pexels.com/photos/2162455/pexels-photo-2162455.jpeg?auto=compress&cs=tinysrgb&w=800") center right;
+    height: 60vh;
+    position: relative;
+}
+
+.banner_info{
+    background-color: black;
+    color: white;
+    padding: 25vh 50px 50px 40px;
+    width: 300px;
+}
+
+.banner_info > button{
+    background-color: #972e79;
+    color: white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.banner_info > button:hover{
+    background-color: white;
+    color: #972e79;
+}
+
+.banner_info > h1{
+    line-height: 40px;
+}
+.banner_info > h5{
+    margin-top: 10px;
+}
+
+.banner__search > button{
+    background-color: #270b39;
+    font-weight: 900;
+    text-transform: inherit;
+    color: #972e79;
+    letter-spacing: 2px;
+}
+.banner__search > button:hover{
+    background-color: #972e79;
+    color: white;
+}
+
+.banner__search{
+    top: 0;
+    display: flex;
+    flex-direction: column;
+}

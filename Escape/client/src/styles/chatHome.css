@@ -1,0 +1,46 @@
+.register{
+    margin: 100px 0 100px 0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.register_form{
+    display: inline-block;
+}
+
+.resgister_form input{
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+}
+
+.select{
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+}
+
+.resgister_form button{
+    background-color: #972e79;
+    color: white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+    width: 60%;
+    height: 45px;
+    border-radius: 35px;
+}
+
+.resgister_form button:hover{
+    background-color: white;
+    color: #972e79;
+}
+
+#dive{
+    color: #972e79;
+    margin-bottom: 40px;
+}
