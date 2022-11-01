@@ -1,12 +1,12 @@
 <div align="center">
 <h1>Escape</h1>
 <h3>Full-Stack MERN: Airbnb inspired full-CRUD project</h3>
-<p>Escape allows hosts to create an account using BCrypt, JSON Web Token, and cookie-parser for authentication. Once an account has been created, the host will be able to utilize all full-CRUD capabilities, by allowing the host to create, edit, and delete a Stay location. By using Google Maps API and geocoding, when a new stay in created, the location will be added to the database, as well as a map on the page. Additionally, each Stay must provide an image of their location when creating an account, utilizing multer. Finally, a chat room was added to allow host and users to communicate with each other, by implementing socket.IO.</p>
+<p>Escape allows hosts to create an account using bcrypt, JSON Web Token, and cookie-parser for authentication. Once an account has been created, the host will be able to utilize all full-CRUD capabilities, by allowing the host to create, edit, and delete a Stay location. By using Google Maps API and geocoding, when a new stay in created, the location will be added to the database, as well as a map on the page. Additionally, each Stay must provide an image of their location when creating an account, utilizing multer. Finally, a chat room was added to allow host and users to communicate with each other, by implementing socket.IO.</p>
 </div>
 
 <div align="center">
 <h3>Technologies Used:</h3>
-<h6>MongoDB | Express | React | Node.js | Mongoose | Socket.IO | JSON Web Token | BCrypt | cookie-parser | Google Maps API & Geocoding | date-picker | multer | Material-UI | CSS | HTML</h6>
+<h6>MongoDB | Express | React | Node.js | Mongoose | Socket.IO | JSON Web Token | bcrypt | cookie-parser | Google Maps API & Geocoding | date-picker | multer | Material-UI | CSS | HTML</h6>
 </div>
 
 <p align="center">
